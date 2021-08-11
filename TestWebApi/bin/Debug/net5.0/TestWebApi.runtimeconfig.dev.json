@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cepl/.dotnet/store/|arch|/|tfm|",
+      "/home/cepl/.nuget/packages"
+    ]
+  }
+}
